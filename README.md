@@ -10,4 +10,8 @@
   <li> datetime module </li>
 </ul>
 
+# Installing & Requirements:
+<p> Download the tool OR clone the tool if you have git installed. </p>
+<b> Git Installation Guide (Windows): <a href = "https://git-scm.com/download/win"> </b>
+
 
