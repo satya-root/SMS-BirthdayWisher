@@ -16,5 +16,10 @@
   <li>Windows - https://git-scm.com/download/win </li>
   <li>Linux - https://git-scm.com/download/linux </li>
   </ul>
-
+```
+git clone https://github.com/satya-root/SMS-BirthdayWisher/
+cd SMS-BirthdayWisher
+pip install -r requirements.txt
+python main.py
+```
 
