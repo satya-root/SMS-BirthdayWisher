@@ -17,12 +17,13 @@
   <li>Linux - https://git-scm.com/download/linux </li>
   </ul>
 Run the command in the Command Prompt Or Terminal.
+
 ```
 git clone https://github.com/satya-root/SMS-BirthdayWisher/
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
-<p> <b><center> OR </center></b> </p>
+<p> <b> OR </b> </p>
 <p> Download from the link: <p>
 Run the command in the Command Prompt Or Terminal.
 
