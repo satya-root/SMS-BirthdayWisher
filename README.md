@@ -38,8 +38,8 @@ pip install -r requirements.txt
 <p> Add the numbers to which you want to send SMS (Phone Numbers Used In DB.xlsx): https://www.twilio.com/console/phone-numbers/verified </p>
 
 # 4. Usage:
-<p> i.   Add your Account SID and Auth Token to main.py from: https://www.twilio.com/console </p>
-<p> ii.  Give the path of DB.xlsx in main.py </p>
+<p> i.   Add your Account SID and Auth Token (~Line 43 & 44) to main.py from: https://www.twilio.com/console </p>
+<p> ii.  Give the path of DB.xlsx in main.py (~Line 9) </p>
 <p> iii. Run the python file (main.py) </p>
   
 <p> Or type the command in terminal/command prompt: </p>
