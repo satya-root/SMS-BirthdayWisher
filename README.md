@@ -13,8 +13,8 @@
 # Installing & Requirements:
 <p> Download the tool OR clone the tool if you have git installed. </p>
 <b> <ul> Git Installation Guide: </b>
-  <li>[![Click Here For Windows](https://git-scm.com/download/win)]</li>
-  <li>[![Click Here For Linux](https://git-scm.com/download/linux)]</li>
+  <li>Windows - https://git-scm.com/download/win </li>
+  <li>Linux - https://git-scm.com/download/linux </li>
   </ul>
 
 
