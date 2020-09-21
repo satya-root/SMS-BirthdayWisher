@@ -12,6 +12,9 @@
 
 # Installing & Requirements:
 <p> Download the tool OR clone the tool if you have git installed. </p>
-<b> Git Installation Guide (Windows): <a href = "https://git-scm.com/download/win"> </b>
+<b> <ul> Git Installation Guide: </b>
+  <li>[![Click Here For Windows](https://git-scm.com/download/win)]</li>
+  <li>[![Click Here For Linux](https://git-scm.com/download/linux)]</li>
+  </ul>
 
 
