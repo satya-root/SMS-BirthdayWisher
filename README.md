@@ -39,6 +39,9 @@ pip install -r requirements.txt
 <p> Add the numbers to which you want to send SMS (Phone Numbers Used In DB.xlsx): https://www.twilio.com/console/phone-numbers/verified </p>
 
 # Usage:
+<p> Add your Account SID and Auth Token to main.py from: https://www.twilio.com/console </p>
+
+  
 ```
 python main.py
 ```
