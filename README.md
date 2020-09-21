@@ -31,4 +31,8 @@ Run the command in the Command Prompt Or Terminal.
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
+# Usage:
+```
+python main.py
+```
   
