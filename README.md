@@ -31,6 +31,11 @@ Run the command in the Command Prompt Or Terminal.
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
+# Configure the excel file for the birthdays:
+![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+
+# Create your account in Twilio: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account
+
 # Usage:
 ```
 python main.py
