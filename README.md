@@ -23,7 +23,7 @@ git clone https://github.com/satya-root/SMS-BirthdayWisher/
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
-<p> <b> OR </b> </p>
+<p> <b>        OR </b> </p>
 <p> Download from the link: <p>
 Then, run these command in the Command Prompt or Terminal.
 
@@ -31,7 +31,7 @@ Then, run these command in the Command Prompt or Terminal.
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
-# 2. Configure the excel file for the birthdays.
+# 2. Configure the excel file (DB.elsx) for the birthdays.
 
 # 3. Create your account in Twilio: 
 <p> Follow This: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account </p>
