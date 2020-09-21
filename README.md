@@ -26,6 +26,7 @@ pip install -r requirements.txt
 <p> <b> OR </b </p>
 <p> Download from the link: <p>
 Run the command in the Command Prompt Or Terminal.
+ 
 ```
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
