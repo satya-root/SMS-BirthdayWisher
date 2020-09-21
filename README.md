@@ -34,7 +34,9 @@ pip install -r requirements.txt
 # Configure the excel file for the birthdays:
 ![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
 
-# Create your account in Twilio: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account
+# Create your account in Twilio: 
+Follow This: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account
+Add the numbers to which you want to send SMS (Phone Numbers Used In DB.xlsx): https://www.twilio.com/console/phone-numbers/verified
 
 # Usage:
 ```
