@@ -11,16 +11,23 @@
 </ul>
 
 # Installing & Requirements:
-<p> Download the tool OR clone the tool if you have git installed. </p>
+<p> Clone the tool if you have git installed. </p>
 <b> <ul> Git Installation Guide: </b>
   <li>Windows - https://git-scm.com/download/win </li>
   <li>Linux - https://git-scm.com/download/linux </li>
   </ul>
-
+  
+Run the command in the Command Prompt Or Terminal.
 ```
 git clone https://github.com/satya-root/SMS-BirthdayWisher/
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
-python main.py
 ```
-
+<p> <b> OR </b </p>
+<p> Download from the link: <p>
+Run the command in the Command Prompt Or Terminal.
+```
+cd SMS-BirthdayWisher
+pip install -r requirements.txt
+```
+  
