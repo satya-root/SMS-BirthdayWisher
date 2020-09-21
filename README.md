@@ -24,7 +24,7 @@ cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
 <p> <b>        OR </b> </p>
-<p> Download from the link: <p>
+<p> Download from the link: https://github.com/satya-root/SMS-BirthdayWisher/archive/master.zip <p>
 Then, run these command in the Command Prompt or Terminal.
 
 ```
