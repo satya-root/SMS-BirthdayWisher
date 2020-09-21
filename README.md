@@ -16,7 +16,7 @@
   <li>Windows - https://git-scm.com/download/win </li>
   <li>Linux - https://git-scm.com/download/linux </li>
   </ul>
-Run the command in the Command Prompt Or Terminal.
+Then run these command in the Command Prompt or Terminal.
 
 ```
 git clone https://github.com/satya-root/SMS-BirthdayWisher/
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 <p> <b> OR </b> </p>
 <p> Download from the link: <p>
-Run the command in the Command Prompt Or Terminal.
+Then, run these command in the Command Prompt or Terminal.
 
 ```
 cd SMS-BirthdayWisher
