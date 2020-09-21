@@ -10,7 +10,7 @@
   <li> datetime module </li>
 </ul>
 
-# Installing & Requirements:
+# 1. Installing & Requirements:
 <p> Clone the tool if you have git installed. </p>
 <b> <ul> Git Installation Guide: </b>
   <li>Windows - https://git-scm.com/download/win </li>
@@ -31,18 +31,19 @@ Run the command in the Command Prompt Or Terminal.
 cd SMS-BirthdayWisher
 pip install -r requirements.txt
 ```
-# Configure the excel file for the birthdays:
-![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+# 2. Configure the excel file for the birthdays.
 
-# Create your account in Twilio: 
+# 3. Create your account in Twilio: 
 <p> Follow This: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account </p>
 <p> Add the numbers to which you want to send SMS (Phone Numbers Used In DB.xlsx): https://www.twilio.com/console/phone-numbers/verified </p>
 
-# Usage:
-<p> Add your Account SID and Auth Token to main.py from: https://www.twilio.com/console </p>
-
+# 4. Usage:
+<p> i.   Add your Account SID and Auth Token to main.py from: https://www.twilio.com/console </p>
+<p> ii.  Give the path of DB.xlsx in main.py </p>
+<p> iii. Run the python file (main.py) </p>
   
+<p> Or type the command in terminal/command prompt: </p>
+
 ```
 python main.py
 ```
-  
