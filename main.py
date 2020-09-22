@@ -10,7 +10,7 @@ import os
 
 # For Windows -> \\ -------- Example -> C:\\Users\\Downloads\\SMS-BirthdayWisher\\DB.xlsx
 # For Linux   -> /  -------- Example -> /home/kali/Downloads/SMS-BirthdayWisher/DB.xlsx
-workbook = openpyxl.load_workbook('/home/kali/Desktop/VS Code/Python/Birthday_Wisher/DB.xlsx') 
+workbook = openpyxl.load_workbook('------Location of DB.xlsx------') 
 active = workbook.active
 
 def convert_to_secs():
