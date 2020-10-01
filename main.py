@@ -29,6 +29,7 @@ def convert_to_secs():
 
 
 date = datetime.date.today()
+print("Today is ", date)
 str_date = str(date.day) + '_0' + str(date.month)
 
 z = convert_to_secs()
